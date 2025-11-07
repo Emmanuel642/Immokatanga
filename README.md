@@ -1,7 +1,7 @@
 
-  # Inmobiliaria (Community)
+  # Inmobiliaria 
 
-  This is a code bundle for Inmobiliaria (Community). The original project is available at https://www.figma.com/design/lz8B0PyUrJz3nysy03jHPV/Inmobiliaria--Community-.
+  c'est mon projet perso
 
   ## Running the code
 
